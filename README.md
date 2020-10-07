@@ -1,4 +1,4 @@
-# CountWordsInTXT
+# CountUniqueWordsInTXT
 Counts the number of words in given .txt files.
 
 This code is compatible only with UTF-8 .txt files. Other were not tested/supported.
